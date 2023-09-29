@@ -1,0 +1,2 @@
+add somithing
+i just add some points to third.txt
