@@ -149,24 +149,23 @@ function Home ()
                        <div className="ser1">
                            <h1 id="ser11"> SERVICES</h1> 
                          </div>
-                         <div className="r333">
-                         <div className="s333">
-                         <div class="edt"> 
-                            <h1 >Residential Decoration</h1>  
-                            <p></p>
-                        </div>
-                         </div>
-                         </div>
-                         <div className="t1">
-                        <h1 id="vaa"></h1>
-                        <a id="vaa1"></a>
-                        
-                        <div className="c443">
-                            <a href="#" class="none333"> VEIW ALL</a>
+                         
+                    <div class="r444"> 
+                    <div class="s444">
+                        <div class="edt">
+                            <h1>Residential Decoration</h1>  
+                            <p id="comeon"> &nbsp;Lorem ipsum dolor sit amet consectetur </p> 
+                            </div>
+                    </div>
+                    <div class="t2">
+                        <div class="c444">
+                            <a href="#read" class="none333"> VEIW ALL</a>
 
                         </div>
-                       
                     </div>
+                </div>
+                       
+                    
                     <div class="r444"> 
                     <div class="s444">
                         <div class="edt">
@@ -184,9 +183,9 @@ function Home ()
                 <div class="r555">
                     <div class="s555">
                         <div class="edt"> 
-                         <h1 >Office Decoration</h1>  
+                         <h1 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Officeial &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decoration</h1>  
                           
-                            <p id="comeon">&nbsp;Lorem ips </p>
+                            <p id="comeon">&nbsp;Lorem ipsum dolor sit amet consectetur </p>
                         </div>
                     </div>
                     <h1 id="vaa"></h1>
